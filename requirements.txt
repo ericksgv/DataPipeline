@@ -1,0 +1,4 @@
+twscrape
+pandas
+nltk
+python-dotenv
